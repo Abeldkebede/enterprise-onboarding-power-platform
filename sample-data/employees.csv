@@ -1,0 +1,9 @@
+EmployeeID,FirstName,LastName,Email,Department,Manager,Status
+1001,John,Smith,john.smith@company.com,IT,Michael Brown,Active
+1002,Sarah,Johnson,sarah.johnson@company.com,HR,Emily Davis,Active
+1003,David,Wilson,david.wilson@company.com,Finance,Robert Lee,Pending
+1004,Lisa,Taylor,lisa.taylor@company.com,Operations,Michael Brown,Active
+1005,James,Anderson,james.anderson@company.com,IT,Michael Brown,Pending
+1006,Amanda,White,amanda.white@company.com,HR,Emily Davis,Active
+1007,Daniel,Clark,daniel.clark@company.com,Finance,Robert Lee,Active
+1008,Jessica,Hall,jessica.hall@company.com,Operations,Michael Brown,Pending
